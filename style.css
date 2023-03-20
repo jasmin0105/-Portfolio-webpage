@@ -1,0 +1,11 @@
+.wrapper{
+    text-align: center;
+}
+.wrapper__title {
+    color:red;
+}
+
+.wrapper__subtitle {
+    color: green;
+    font-size: 35px;
+}
